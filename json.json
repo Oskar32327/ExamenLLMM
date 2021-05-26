@@ -1,0 +1,86 @@
+{	
+	"Tienda":[
+		{
+		"Nombre":"Sport shop",
+		"Ciudad":"Mérida",
+		"Contacto":[
+			{
+			"nombre":"Jony Melavo",
+			"email":"eseJony@gmail.com"
+			}
+		],
+		"Catalogo": [
+			{
+				"Camisetas":[
+				{
+					"Manga corta":[
+						{
+							"Marca":"Mike"
+						},
+						{
+							"Tallas":[{"pequeña":"S"},{"mediana":"M"},{"larga":"L"},{"extraGrande":""}]
+						}
+					]
+				},
+				{
+					"Manga larga":[
+						{
+							"Marca":"Addidas"
+						},
+						{
+							"Tallas":[{"pequeña":""},{"mediana":"M"},{"larga":"L"},{"extraGrande":""}]
+						}
+					]
+				},
+				{
+					"Sin mangas":[
+						{
+							"Marca":"Mike"
+						},
+						{
+							"Tallas":[{"pequeña":"S"},{"mediana":"M"},{"larga":"L"},{"extraGrande":"XL"}]
+						}
+					]
+				}]
+			},
+			{
+				"Pantalones":[
+				{
+					"Cortos":[
+							{"marca":[{"Gordan":"Gordan"},{"Mike":"Mike"}]},
+				
+							{"Tallas":[{"pequeña":"S"},{"mediana":"M"},{"larga":""},{"extraGrande":"XL"}]}
+					]
+				},
+				{
+					"Largos":[
+						{
+							"Marca":"Addidas"
+						},
+						{
+							"Tallas":[{"pequeña":""},{"mediana":"M"},{"larga":"L"},{"extraGrande":""}]
+						}
+					]
+				}
+				]
+			},
+			{
+				"Zapatillas":[
+					{
+					"Baloncesto":[
+						{"marca":[{"Gordan":"Gordan"},{"Mike":"Mike"}]},
+						{
+							"Tallas":[{"pequeña":""},{"mediana":"M"},{"larga":"L"},{"extraGrande":""}]}
+					]
+					},
+					{
+
+					},
+					{
+
+					}]
+			}
+		]	
+		}
+	]
+}
